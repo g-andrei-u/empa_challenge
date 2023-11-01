@@ -1,0 +1,34 @@
+section {
+    width: 100vw;
+    height: 75vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+section form {
+    background-color: white;
+    width: 400px;
+    padding: 20px;
+    border: 2px solid #1976d2;
+    border-radius: 4px;
+    margin-top: -70px;
+}
+
+section form div {
+    margin: 6px 0;
+}
+
+.event-display {
+    width: 100vw;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.event-display div {
+    padding: 10px;
+    margin-top: -30px;
+    margin-bottom: 40px;
+}
